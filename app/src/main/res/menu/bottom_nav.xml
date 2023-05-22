@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Chat"
+        android:icon="@drawable/ic_baseline_chat_24"/>
+    <item
+        android:id="@+id/friend"
+        android:title="Friend"
+        android:icon="@drawable/ic_baseline_supervised_user_circle_24"/>
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"
+        android:icon="@drawable/ic_baseline_settings_accessibility_24"/>
+</menu>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">Hung dbdd</string>
+    <string name="loading">Loading…</string>
+    <string name="favourite">Favourite</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="lbl_tue">Tue</string>
+    <string name="lbl_hi_you">Hi, you!</string>
+    <string name="msg_all_good_here">All good here. We wash hands and stay home.</string>
+    <string name="lbl_chatroom">Chatroom </string>
+    <string name="msg_hello_everybody">Hello everybody! I\u2019m Ola.</string>
+    <string name="lbl_hi_ola">Hi Ola!</string>
+    <string name="lbl_write">Write</string>
+    <string name="lbl_reglar_access">reglar access</string>
+    <string name="msg_don_t_have_an_a">Don\u2019t have an account?</string>
+    <string name="lbl_01_feb">01 Feb</string>
+    <string name="msg_confirm_passwor">Confirm passwork</string>
+    <string name="lbl_22">+22</string>
+    <string name="lbl_new_user">new user</string>
+    <string name="msg_hi_wecome_back">Hi, Wecome Back! &#128075;</string>
+    <string name="lbl2">\?</string>
+    <string name="lbl_18_mar">18 Mar</string>
+    <string name="lbl_signup">SignUP</string>
+    <string name="msg_welcome_to_my_f">Welcome to my Figma!
+Check out more freebies at: </string>
+    <string name="msg_maciej_kowalski">maciej.kowalski@email.com</string>
+    <string name="lbl_next_month">Next month?</string>
+    <string name="lbl_team">Team</string>
+    <string name="msg_anastazja_ziemk">Anastazja
+Ziemkowska</string>
+    <string name="lbl_marzena_klasa">Marzena Klasa</string>
+    <string name="msg_how_is_koronavi">How is koronavirus?</string>
+    <string name="lbl_uploaded_file">Uploaded file.</string>
+    <string name="msg_it_is_free_and">It is free and secure</string>
+    <string name="lbl_name">Name</string>
+    <string name="msg_connect_with_yo">Connect with your friends today!</string>
+    <string name="lbl_chat_app">Chat App</string>
+    <string name="msg_create_an_accou">Create an account</string>
+    <string name="lbl_mo_enka_walina">Możenka
+Walina</string>
+    <string name="msg_https_dribbbl">https://dribbble.com/martinawolna</string>
+    <string name="lbl_3_mar_13_34">3 MAR 13:34</string>
+    <string name="lbl">+</string>
+    <string name="lbl_register">Register</string>
+    <string name="lbl_sun">Sun</string>
+    <string name="lbl_c">C</string>
+    <string name="msg_potem_sie_zobac">potem sie zobaczy</string>
+    <string name="lbl_freebies">freebies</string>
+    <string name="lbl_at"> at: </string>
+    <string name="lbl_maciej_or_owski">Maciej Orłowski</string>
+    <string name="msg_no_pracujemy_z">no pracujemy z domu przez 5 ...</string>
+    <string name="lbl_martina_wolna">Martina Wolna</string>
+    <string name="lbl_email">Email</string>
+    <string name="msg_https_www_beh">https://www.behance.net/martinawolna</string>
+    <string name="lbl_08_43">08:43</string>
+    <string name="msg_this_is_our_new">This is our new manager, She will join chat. Her name is Ola.</string>
+    <string name="msg_https_www_fig">https://www.figma.com/@martina</string>
+    <string name="msg_or_continue_wit">Or continue with</string>
+    <string name="lbl_search">Search</string>
+    <string name="lbl_michael_tony">Michael tony</string>
+    <string name="msg_anybody_affecte">Anybody affected by coronavirus?</string>
+    <string name="msg_more_of_my_desi">More of my designs at:</string>
+    <string name="msg_https_www_fac">https://www.facebook.com/martina.wolna.37</string>
+    <string name="lbl_chatrooms">Chatrooms</string>
+    <string name="lbl_marissa_joined">Marissa joined.</string>
+    <string name="msg_welcome_to_my_f2">Welcome to my Figma!
+Check out more </string>
+    <string name="lbl_3">+3</string>
+    <string name="msg_magdalena_pomor">Magdalena
+Pomorska</string>
+    <string name="lbl_some_tutorials">Some tutorials:</string>
+    <string name="lbl_5">+5</string>
+    <string name="msg_i_commented_on">I commented on Figma, I want to add some fancy icons. Do you have any icon set?</string>
+    <string name="msg_hello_hw_are_y">Hello, hw are you? This is out ream chat, you can write here about your projects. I heared you have experience in marketing, I would like to hear more about it. We need to focuse more on promoting our products.</string>
+    <string name="lbl_krysia_eurydyka">Krysia Eurydyka</string>
+    <string name="msg_hello_again_yo">Hello again, you\u2019ve been missed!</string>
+    <string name="lbl_login">Login</string>
+    <string name="msg_will_do_super">Will do, super, thank you</string>
+    <string name="lbl_full_access">full access</string>
+    <string name="lbl_1_feb_12_00">1 FEB 12:00</string>
+    <string name="lbl_bo_enka_malina2">Bożenka Malina</string>
+    <string name="lbl_bo_enka_malina">Bożenka
+Malina</string>
+    <string name="lbl_08_12">08:12</string>
+    <string name="msg_jaros_aw_kowals">jarosław kowalski</string>
+    <string name="lbl_app">App</string>
+    <string name="lbl_23_mar">23 Mar</string>
+    <string name="msg_jarek_kowal_ema">jarek.kowal@emaile.com</string>
+    <string name="lbl_passwork">Passwork</string>
+    <string name="lbl_forgot_password">Forgot Password</string>
+    <string name="msg_at_out_office_3">At out office 3 ppl are infected. We work from home.</string>
+    <string name="msg_i_am_in_a_proce">I am in a process of designing some. When do you need them?</string>
+    <string name="msg_odeusz_piotrows">Odeusz Piotrowski</string>
+    <string name="lbl_hat">hat</string>
+    <string name="lbl_favourites">Favourites</string>
+    <string name="lbl_delete_chatroom">delete chatroom</string>
+    <string name="msg_https_www_you">https://www.youtube.com/channel/UCNUea21Vm8P47U_h6jrXGZA</string>
+    <string name="msg_i_am_almost_fin">I am almost finish. Please give me your email, I will ZIP them and send you as son as im finish.</string>
+    <string name="msg_here_is_another">Here is another tutorial, if you</string>
+    <string name="lbl_mc_bastek">MC Bastek</string>
+    <string name="lbl_mon">Mon</string>
+    <string name="lbl_remember_me">Remember Me</string>
+    <string name="lbl_maciej_kowalski">Maciej Kowalski</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="username">User Name</string>
+    <string name="name">name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="city">city</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="txtRemember">Remember me</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lbl_california_usa">California, USA</string>
+    <string name="lbl_where_i_b">Where i B</string>
+    <string name="lbl_2_467">2,467
+</string>
+    <string name="lbl_trender">Trender</string>
+    <string name="lbl_trender_setters">Trender Setters</string>
+    <string name="lbl_www_abc_com">www.abc.com</string>
+    <string name="lbl_where_i_m_from">Where I M From</string>
+    <string name="lbl_my_trends">My Trends</string>
+    <string name="lbl_education">Education</string>
+    <string name="msg_abce_private_li">Abce private limited</string>
+    <string name="lbl_uba">UBA</string>
+    <string name="msg_1544_trender_se">1544
+Trender Setters</string>
+    <string name="lbl_1544">1544
+</string>
+    <string name="lbl_website">Website</string>
+    <string name="lbl_profile">Profile</string>
+    <string name="lbl_547">547
+</string>
+    <string name="msg_bs_as_argentin">Bs As, Argentina</string>
+    <string name="lbl_work_at">Work At</string>
+    <string name="msg_playing_cricket">Playing Cricket, Dancing</string>
+    <string name="lbl_547_my_trends">547
+My Trends</string>
+    <string name="lbl_interest_in">Interest in</string>
+    <string name="lbl_steve_smith">Steve Smith</string>
+    <string name="lbl_2_467_trender">2,467
+Trender</string>
+    <string name="lbl_edit_bio">Edit Bio</string>
+</resources>

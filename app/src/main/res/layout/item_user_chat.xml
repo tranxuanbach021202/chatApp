@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearUser"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/_24pxv"
+    android:layout_marginEnd="@dimen/_10pxh"
+    android:gravity="start"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageAvatarUser"
+            android:layout_width="@dimen/_60pxh"
+            android:layout_height="@dimen/_60pxh"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="0dp"
+            android:scaleType="centerCrop"
+            tools:ignore="ContentDescription"
+            tools:src="@drawable/img_image" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearColumnmaciejkowalski"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_10pxh"
+        android:layout_marginBottom="@dimen/_7pxv"
+        android:layout_weight="0.86"
+        android:gravity="start"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/linearRowmaciejkowalski"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/txtChatName"
+                style="@style/txtRobotoregular15_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_1pxv"
+                android:layout_weight="0.74"
+                android:ellipsize="end"
+                android:letterSpacing="0.05"
+                android:singleLine="true"
+                android:text="@string/lbl_maciej_kowalski"
+                tools:text="@string/lbl_maciej_kowalski" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/txtEmail"
+            style="@style/txtRobotolight13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_4pxv"
+            android:layout_marginEnd="@dimen/_10pxh"
+            android:ellipsize="end"
+            android:letterSpacing="0.05"
+            android:singleLine="true"
+            android:text="@string/msg_maciej_kowalski"
+            tools:text="@string/msg_maciej_kowalski" />
+
+    </LinearLayout>
+</LinearLayout>

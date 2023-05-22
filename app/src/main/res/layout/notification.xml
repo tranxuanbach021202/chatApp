@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="@dimen/_100pxh"
+        android:id="@+id/imgNotification"
+        android:src="@drawable/icon_chat"
+        android:layout_height="@dimen/_100pxh"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_marginStart="@dimen/_10pxh"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/notificationTilte"
+            android:layout_marginBottom="@dimen/_20pxh"
+            android:layout_height="wrap_content"
+            android:text="Titel"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/notificationContent"
+            android:layout_height="wrap_content"
+            android:text="null"/>
+    </LinearLayout>
+</androidx.appcompat.widget.LinearLayoutCompat>
